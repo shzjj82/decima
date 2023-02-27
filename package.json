@@ -1,0 +1,15 @@
+{
+  "name": "decimal",
+  "version": "0.0.1",
+  "description": "用于小数的一些操作",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc src/index",
+    "test": "mocha --trace-warnings"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
